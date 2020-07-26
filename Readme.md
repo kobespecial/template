@@ -1,1 +1,1 @@
-This is a Latex template for articel title page. 
+This is some Latex templates I collected.
